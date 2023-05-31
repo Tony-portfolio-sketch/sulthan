@@ -93,7 +93,7 @@ let firstrow = [
 let thirdrow = [
     {
         id: 1,
-        src: "/assets/img/discover-1.png",
+        src: "~/assets/img/discover-1.png",
         alt: "2 Nights PACKAGE All Inclusive",
         country: "Cayman Islands",
         title: "2 Nights PACKAGE All Inclusive",
